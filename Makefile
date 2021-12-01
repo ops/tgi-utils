@@ -19,7 +19,7 @@ CFLAGS += -g
 ASFLAGS += -g
 
 # Set OBJECTS
-LIB_OBJECTS := mg_export.o
+LIB_OBJECTS := mg_export.o mg_import.o
 
 
 .PHONY: clean

@@ -14,4 +14,7 @@ int mg_export(const char *name,
               uint8_t background,
               uint8_t border);
 
+/* Import VIC-20 MINIGRAFIK picture */
+int mg_import(const char *name);
+
 #endif
