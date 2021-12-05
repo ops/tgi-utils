@@ -1,13 +1,13 @@
 # tgi-utils
 
-Utility functions for [cc65](https://cc65.github.io/doc/) TGI.
+Utility functions for [cc65](https://cc65.github.io/) TGI.
 
 Functions:
 
 - mg_export: export TGI image as MINIGRAFIK image.
 - mg_import: import MINIGRAFIK image as TGI image.
 
-# Authors
+## Authors
 
 tgi-utils by ops.
 
