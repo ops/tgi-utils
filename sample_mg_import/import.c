@@ -1,6 +1,7 @@
 /*
+ * import.c
  *
- *
+ * Import MINIGRAFIK image as TGI image.
  *
  */
 
