@@ -20,6 +20,9 @@ CFLAGS += -g
 # Additional assembler flags and options.
 ASFLAGS += -g
 
+# Archiver flags and options.
+ARFLAGS = r
+
 # Set OBJECTS
 LIB_OBJECTS := mg_export.o mg_import.o
 
